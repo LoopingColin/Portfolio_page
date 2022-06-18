@@ -31,7 +31,7 @@ html::-webkit-scrollbar{
 }
 
 html::-webkit-scrollbar-track{
-    background:rgb(85, 31, 31);
+    background:rgba(2, 42, 95, 0.637);
 }
 
 html::-webkit-scrollbar-thumb{
@@ -263,6 +263,12 @@ header .navbar ul li a:hover{
     flex-wrap: wrap;
 }
 
+img {
+    width:  100px;
+    height: 100px;
+   
+}
+
 .contact .row .content{
     flex:1 1 30rem;
     padding:4rem;
@@ -280,7 +286,7 @@ header .navbar ul li a:hover{
     padding:1.5rem;
     margin:1rem 0;
     background:rgb(255, 255, 255);
-    color:rgba(255, 255, 255, 0.322);
+    color:rgba(0, 17, 255, 0.322);
     text-transform: none;
     font-size: 1.7rem;
     width:100%;
@@ -390,3 +396,5 @@ header .navbar ul li a:hover{
     }
 
  }
+
+
